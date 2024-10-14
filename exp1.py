@@ -11,4 +11,7 @@ n=int(input("Enter n: "))
 print("\nVector 2: ",l,"i +",m,"j +",n,"j")
 
 print("Answer is: ",a*l+b*m+c*n)
-print("lets create even more conflict...")
+
+print("Peaceful resolution")
+
+
